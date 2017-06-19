@@ -1,5 +1,7 @@
-comerc:autoform-selectize
+pushplaybang:autoform-selectize
 =========================
+
+**hard forked from comerc:autoform-selectize and updated for the latest dependancies.**
 
 An add-on Meteor package for [aldeed:autoform](https://github.com/aldeed/meteor-autoform). Provides a single custom input type, "selectize", which renders an input using the [selectize](http://brianreavis.github.io/selectize.js/) plugin.
 
