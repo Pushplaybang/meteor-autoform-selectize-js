@@ -1,7 +1,7 @@
 Package.describe({
   name: 'pushplaybang:autoform-selectize',
   summary: 'Updated Custom "selectize" input type for AutoForm',
-  version: '3.0.0',
+  version: '3.0.1',
   git: 'https://github.com/comerc/meteor-autoform-selectize.git'
 });
 
